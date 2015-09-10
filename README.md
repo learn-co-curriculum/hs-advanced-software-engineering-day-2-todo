@@ -6,5 +6,5 @@ Today, we'll be taking a deeper dive into Sinatra and forms, and learning about 
 
 1. Catch up on Fwitter from yesterday: check out today's Fwitter repository and use it as a guide. Think about the basic format of MVC. 
 
-2. As our projects get more complex, we'll be spending a lot of time iterating through arrays - the Cartoon Collections lab is great practice for this. Try solving each test using the `.each` method, then see if you can solve it using more advanced Enumerable methods. The lab is test driven - run `learn` in your terminal and get all of the tests passing. 
+2.
 
