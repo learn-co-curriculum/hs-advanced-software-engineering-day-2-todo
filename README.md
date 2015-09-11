@@ -6,5 +6,5 @@ Today, we'll be taking a deeper dive into Sinatra and forms, and learning about 
 
 1. Catch up on Fwitter from yesterday: check out today's Fwitter repository and use it as a guide. Think about the basic format of MVC. 
 
-2.
+2. Once you've caught up with Fwitter, check out the Current Time lab. You'll be building out a basic MVC application to dispaly the current time to a user. 
 
