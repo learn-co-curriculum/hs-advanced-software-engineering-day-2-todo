@@ -9,4 +9,4 @@ Today, we'll be taking a deeper dive into Sinatra and forms, and learning about 
 2. Once you've caught up with Fwitter, check out the Current Time lab. You'll be building out a basic MVC application to dispaly the current time to a user. 
 
 
-<a href='https://learn.co/lessons/hs-advanced-software-engineering-day-2-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-advanced-software-engineering-day-2-todo' title='Welcome to Day 2!!!'>Welcome to Day 2!!!</a> on Learn.co and start learning to code for free.</p>
